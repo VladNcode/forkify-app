@@ -1,11 +1,7 @@
 # Forkify
 ![forkify-small](https://user-images.githubusercontent.com/91598576/148014754-3d92c86e-3169-4bf7-8507-66d30a825229.jpg)
 
-
-Forkify is a recipe web app using the Forkify API to allow users to search, view, modify, bookmark, and add recipes.
-
-Built using the MVC Architecture. View class extends the rest of the components. The controller keeps bidirectional data flow. SCSS files are divided into major components.
-The app is using the Forkify recipe API in order to fetch recipe information.
+Forkify is a vanilla JavaScript application that interacts with the Forkify API to fetch and display recipe food data. This app uses modern JavaScript tools, such as Parcel to bundle the modules, and Babel to convert ES6, ES7, and ES8 back to ES5. The user can search for a specific recipe, and save it to a favorites list via local storage. The user can easily increase or decrease servings as per his need and can view detailed directions.
 
 # Features
 
